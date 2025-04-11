@@ -21,6 +21,7 @@ unzip -q rawdata.zip
 ###########################################
 # Complete assignment here
 # Update new line
+# Update new line2
 
 # 1. Create a directory named data
 mkdir data
