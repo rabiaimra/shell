@@ -36,7 +36,6 @@ cd data/processed
 mkdir server_logs user_logs event_logs
 
 # 5. Copy all server log files (files with "server" in the name AND a .log extension) from ./data/raw to ./data/processed/server_logs
-
 #Changing directory with relative pathname (..) 2 times to get 2 level up in the file tree and ending up with assignments directory 
 cd ..
 cd ..
