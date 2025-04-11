@@ -19,6 +19,7 @@ unzip -q rawdata.zip
 
 ###########################################
 # Complete assignment here
+# New update
 
 # 1. Create a directory named data
 
