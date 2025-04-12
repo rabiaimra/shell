@@ -15,10 +15,12 @@ touch analysis/main.py
 
 # download client data
 curl -Lo rawdata.zip https://github.com/UofT-DSI/shell/raw/refs/heads/main/02_activities/assignments/rawdata.zip
-unzip -q rawdata.zip
+unzip -oq rawdata.zip
 
 ###########################################
 # Complete assignment here
+# Update new line
+# Update new line2
 
 # 1. Create a directory named data
 
